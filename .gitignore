@@ -1,0 +1,9 @@
+Dockerfile
+
+.env
+
+# Python virtual environment
+venv/
+.venv/
+
+
